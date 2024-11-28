@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Membuka aplikasi terbuka</description>
+   <name>Open App</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96ffe817-243b-467d-a978-d9c9e6b025aa</testCaseGuid>
+</TestCaseEntity>

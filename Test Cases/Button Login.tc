@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Button Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed95035b-62bb-4194-b9b5-e970dc7accd3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1524362-c519-49b9-a027-f2e6dff70a35</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://dev.premium.enigmacamp.com/'</defaultValue>
+      <description></description>
+      <id>a1524362-c519-49b9-a027-f2e6dff70a35</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+</TestCaseEntity>

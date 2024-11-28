@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add To Cart</name>
+   <tag></tag>
+   <elementGuidId>77562a77-2de9-45b4-9cea-773cd7f21b4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name='add-to-cart'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(8) > app-card-package > .mx-2 > .card > .card-body > div:nth-child(7) > button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f0bfb1ef-b54b-44bc-9a41-94cbd2c77d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>add-to-cart</value>
+      <webElementGuid>ad104f93-f5e9-4edd-ab80-336dc68fff2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-btn-sm ec-btn ec-btn-rounded ec-btn-primary</value>
+      <webElementGuid>286fdc1f-8168-40ba-958b-b1290d4475ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ae5f4c7f-fec3-4241-9f05-6e8194b00f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add To Cart </value>
+      <webElementGuid>f464f7e2-2c12-409f-aadd-34f7a5428d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/div[@class=&quot;d-flex flex-column pt-3 wrapper-dashboard&quot;]/div[@class=&quot;wrapper-card&quot;]/div[2]/div[@class=&quot;px-5&quot;]/ngx-slick-carousel[@class=&quot;carousel slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slide slick-slide slick-active&quot;]/app-card-package[1]/div[@class=&quot;mx-2 my-4&quot;]/div[@class=&quot;card card-custom&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex flex-column gap-2&quot;]/button[@class=&quot;ec-btn-sm ec-btn ec-btn-rounded ec-btn-primary&quot;]</value>
+      <webElementGuid>c762450a-23d4-4d3b-a02f-10a6f7e1b6a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@name='add-to-cart'])[8]</value>
+      <webElementGuid>cb98898f-50d8-43a5-acfd-c7f84456d254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp100.000'])[2]/following::button[1]</value>
+      <webElementGuid>9c478460-f187-45ee-baba-0253a794a574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COBA COBA'])[1]/following::button[1]</value>
+      <webElementGuid>10fb5d20-0df9-4362-a1d3-f456c60861d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[8]/preceding::button[1]</value>
+      <webElementGuid>cb3ac77f-46c7-4dac-9133-df203bf04fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbaru'])[4]/preceding::button[2]</value>
+      <webElementGuid>28b4a5cc-afca-4973-80d1-93198b62d89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/app-card-package/div/div/div[2]/div[5]/button</value>
+      <webElementGuid>a7f38016-e631-480b-86f3-688abc9a889f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'add-to-cart' and (text() = ' Add To Cart ' or . = ' Add To Cart ')]</value>
+      <webElementGuid>f55ebe7a-0bbf-4e28-b5de-567badfe98e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
